@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "text": "What is photosynthesis?",
+      "options": [
+        "The process plants use to make food from sunlight",
+        "The process of water evaporation",
+        "The process of cellular respiration",
+        "The process of plant reproduction"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "text": "Which pigment is primarily responsible for photosynthesis?",
+      "options": [
+        "Carotene",
+        "Chlorophyll",
+        "Xanthophyll",
+        "Anthocyanin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "text": "Where does photosynthesis take place in plant cells?",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Chloroplasts",
+        "Ribosomes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "text": "What are the main products of photosynthesis?",
+      "options": [
+        "Carbon dioxide and water",
+        "Oxygen and nitrogen",
+        "Glucose and oxygen",
+        "Protein and minerals"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "text": "What gas do plants take in during photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "text": "What is the chemical formula for glucose produced in photosynthesis?",
+      "options": [
+        "H2O",
+        "CO2",
+        "C6H12O6",
+        "O2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "text": "What is required for photosynthesis to occur?",
+      "options": [
+        "Darkness and heat",
+        "Light and oxygen",
+        "Light, water, and carbon dioxide",
+        "Nitrogen and minerals"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "text": "What happens to the oxygen produced during photosynthesis?",
+      "options": [
+        "It is stored in roots",
+        "It is released into the atmosphere",
+        "It is converted to carbon dioxide",
+        "It is absorbed by the soil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "text": "Which part of the plant is primarily responsible for photosynthesis?",
+      "options": [
+        "Roots",
+        "Stems",
+        "Leaves",
+        "Flowers"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "text": "What provides the energy for photosynthesis?",
+      "options": [
+        "Wind",
+        "Water",
+        "Sunlight",
+        "Soil nutrients"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

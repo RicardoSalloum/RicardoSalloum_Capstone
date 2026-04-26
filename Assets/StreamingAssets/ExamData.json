@@ -1,0 +1,15 @@
+{
+  "exam_title": "Biology Quiz",
+  "questions": [
+    {
+      "text": "What is the primary product of photosynthesis?",
+      "options": ["Glucose", "Nitrogen", "Salt", "Iron"],
+      "correctIndex": 0
+    },
+    {
+      "text": "Where does photosynthesis primarily occur?",
+      "options": ["Mitochondria", "Nucleus", "Chloroplasts", "Cell Wall"],
+      "correctIndex": 2
+    }
+  ]
+}

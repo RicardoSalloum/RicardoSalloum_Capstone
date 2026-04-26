@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "text": "What are the two main stages of photosynthesis?",
+      "options": [
+        "Light-dependent reactions and light-independent reactions",
+        "Water absorption and carbon fixation",
+        "Chlorophyll production and oxygen release",
+        "Glucose synthesis and oxygen production"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "text": "What is another name for the light-independent reactions?",
+      "options": [
+        "Electron transport chain",
+        "Calvin cycle",
+        "Krebs cycle",
+        "Photosystem reactions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "text": "What happens when chlorophyll is hit by a photon?",
+      "options": [
+        "It splits water molecules",
+        "An electron gets excited",
+        "It produces glucose",
+        "It releases carbon dioxide"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "text": "What is the enzyme that fixes CO2 to RuBP called?",
+      "options": [
+        "ATP synthase",
+        "Chlorophyll oxidase",
+        "Rubisco",
+        "NADPH reductase"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "text": "What are the products of the light-dependent reactions?",
+      "options": [
+        "Glucose and oxygen",
+        "ATP and NADPH",
+        "Carbon dioxide and water",
+        "G3P and starch"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "text": "What is the first stable product of the Calvin cycle?",
+      "options": [
+        "Glucose",
+        "RuBP",
+        "3-phosphoglycerate",
+        "G3P"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "text": "What does Photosystem II do?",
+      "options": [
+        "Fixes carbon dioxide",
+        "Splits water molecules",
+        "Creates glucose",
+        "Stores energy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "text": "What is the ultimate product of photosynthesis according to the lecture?",
+      "options": [
+        "Oxygen",
+        "Glucose",
+        "G3P (glyceraldehyde-3-phosphate)",
+        "ATP"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "text": "Where does the Calvin cycle take place?",
+      "options": [
+        "In the thylakoid membrane",
+        "In the stroma of the chloroplast",
+        "In the mitochondria",
+        "In the cell wall"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "text": "What is the problem with Rubisco mentioned in the lecture?",
+      "options": [
+        "It works too slowly",
+        "It sometimes binds oxygen instead of CO2",
+        "It requires too much energy",
+        "It breaks down too quickly"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
