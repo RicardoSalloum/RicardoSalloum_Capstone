@@ -1,0 +1,79 @@
+
+Sustainable Food Systems and Nutrition: A Lecture
+
+A food system encompasses everything involved in feeding a population — from
+growing, harvesting, and processing food, to distributing, consuming, and
+disposing of it. A sustainable food system meets current nutritional needs
+without compromising the ability of future generations to meet theirs.
+It balances three pillars: environmental health, economic viability, and
+social equity.
+
+MACRONUTRIENTS AND THEIR ROLES
+The human body requires three macronutrients in large quantities. Proteins are
+composed of amino acids, of which 9 are essential — meaning the body cannot
+synthesize them and must obtain them through diet. Proteins are critical for
+tissue repair, enzyme production, and immune function. Carbohydrates are the
+body's primary and preferred energy source; they are broken down into glucose,
+which fuels cellular respiration and ATP production. Dietary fibre, a type of
+complex carbohydrate, is indigestible but feeds gut microbiota and regulates
+bowel function. Fats serve as long-term energy stores, support cell membrane
+integrity, and are required for the absorption of fat-soluble vitamins A, D,
+E, and K.
+
+THE FOOD ENVIRONMENT AND BIODIVERSITY
+Soil health is foundational to sustainable agriculture. Healthy soil contains
+organic matter, beneficial microorganisms, and adequate mineral content. The
+practice of monoculture — growing a single crop repeatedly on the same land —
+degrades soil, reduces biodiversity, and increases vulnerability to pests and
+disease. Crop rotation and intercropping are strategies that restore nutrients
+and support biodiversity. Agricultural biodiversity, meaning the variety of
+crops and livestock breeds in use, is essential for food system resilience.
+Loss of biodiversity narrows the genetic base of our food supply, increasing
+the risk of large-scale crop failure.
+
+FOOD SECURITY
+Food security exists when all people, at all times, have physical, social, and
+economic access to sufficient, safe, and nutritious food. The four pillars of
+food security are: Availability (food is produced or imported in sufficient
+quantities), Access (people can afford and physically reach food), Utilization
+(the body can absorb and use nutrients from food effectively), and Stability
+(access is consistent over time, not disrupted by shocks like drought or
+conflict). Approximately 733 million people face hunger globally, driven by
+poverty, conflict, climate change, and inequality — not a shortage of total
+food production.
+
+THE NITROGEN CYCLE AND FOOD PRODUCTION
+Nitrogen is essential for plant growth, forming the backbone of amino acids
+and nucleic acids. The nitrogen cycle converts atmospheric nitrogen into
+forms usable by plants, primarily through nitrogen fixation by soil bacteria
+such as Rhizobium, which form symbiotic relationships with legume roots.
+Synthetic nitrogen fertilizers, developed via the Haber-Bosch process, have
+dramatically increased crop yields but also cause significant environmental
+harm. Excess nitrogen runs off into waterways, causing eutrophication — algal
+blooms that deplete oxygen and kill aquatic life. This is a major negative
+externality of industrial agriculture.
+
+FOOD PROCESSING AND THE NOVA CLASSIFICATION
+Not all food processing is harmful. The NOVA classification system groups
+foods into four categories based on the extent and purpose of processing.
+Group 1 consists of unprocessed or minimally processed foods such as fruits,
+vegetables, eggs, and plain meat. Group 2 includes processed culinary
+ingredients like oils, flour, and sugar. Group 3 covers processed foods such
+as canned vegetables or artisan cheese. Group 4, ultra-processed foods,
+includes products formulated from industrial ingredients with additives for
+flavour, colour, and shelf life — such as packaged snacks, soft drinks, and
+reconstituted meat products. High consumption of Group 4 foods is strongly
+associated with obesity, type 2 diabetes, cardiovascular disease, and
+poor diet quality.
+
+GREENHOUSE GAS EMISSIONS AND FOOD
+The global food system is responsible for approximately 26 to 34 percent of
+total greenhouse gas emissions. Livestock farming is the single largest
+contributor within the food sector, accounting for roughly 14.5 percent of
+global emissions, primarily through methane from enteric fermentation in
+ruminants and nitrous oxide from manure. Red meat — especially beef — has
+the highest carbon footprint per kilogram of protein. Plant-based diets
+have significantly lower emissions; shifting consumption toward legumes,
+whole grains, fruits, and vegetables is considered one of the most impactful
+individual actions for reducing food-related emissions. Food loss and waste
+account for around 8 to 10 percent of global greenhouse gas emissions.

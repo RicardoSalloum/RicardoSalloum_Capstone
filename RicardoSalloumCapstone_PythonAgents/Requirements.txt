@@ -1,0 +1,36 @@
+# ============================================================
+# VR Classroom Agents - Requirements
+# Install inside your venv:
+#   .\venv\Scripts\activate
+#   pip install -r requirements.txt
+#
+# PyTorch (GPU/CUDA 12.1) must be installed FIRST, separately:
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#
+# Change cu121 to match your CUDA version (cu118, cu124, etc.)
+# Check your version with: nvidia-smi
+# ============================================================
+
+# --- Web framework (Agent.py, Agent_TTS.py, Agent_Voice.py) ---
+fastapi
+uvicorn
+pydantic
+
+# --- HTTP client (Transcribe_Local.py) ---
+requests
+
+# --- Numerical / vector search ---
+numpy
+faiss-gpu
+
+# --- ML / NLP ---
+transformers
+accelerate
+sentence-transformers
+
+# --- Speech ---
+openai-whisper
+kokoro
+
+# --- Audio processing (Whisper / TTS internals) ---
+soundfile

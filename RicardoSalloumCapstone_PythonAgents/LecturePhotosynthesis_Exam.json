@@ -1,0 +1,279 @@
+{
+  "questions": [
+    {
+      "text": "What are the three pillars of a sustainable food system?",
+      "options": [
+        "Environmental health, economic viability, and social equity",
+        "Production, transport, and consumption",
+        "Destruction, packaging, and refrigeration",
+        "Soil, water, and sunlight"
+      ],
+      "correctIndex": 0,
+      "corruptedIndex": 2
+    },
+    {
+      "text": "How many essential amino acids must be obtained through diet?",
+      "options": [
+        "9",
+        "20",
+        "4",
+        "12"
+      ],
+      "correctIndex": 0,
+      "corruptedIndex": 2
+    },
+    {
+      "text": "What is the body's primary and preferred energy source?",
+      "options": [
+        "Oxygen",
+        "Carbohydrates",
+        "Fats",
+        "Proteins"
+      ],
+      "correctIndex": 1,
+      "corruptedIndex": 0
+    },
+    {
+      "text": "What do dietary fibres primarily feed in the body?",
+      "options": [
+        "Fat-soluble vitamins",
+        "The stomach lining",
+        "Intestinal blockages",
+        "Gut microbiota"
+      ],
+      "correctIndex": 3,
+      "corruptedIndex": 2
+    },
+    {
+      "text": "Which vitamins require fat for absorption?",
+      "options": [
+        "Vitamins B6 and B12 only",
+        "Vitamins B and C",
+        "Vitamins A, D, E, and K",
+        "All vitamins equally"
+      ],
+      "correctIndex": 2,
+      "corruptedIndex": 1
+    },
+    {
+      "text": "What agricultural practice involves growing a single crop repeatedly on the same land?",
+      "options": [
+        "Crop rotation",
+        "Permaculture",
+        "Monoculture",
+        "Intercropping"
+      ],
+      "correctIndex": 2,
+      "corruptedIndex": 3
+    },
+    {
+      "text": "What are two strategies that restore soil nutrients and support biodiversity?",
+      "options": [
+        "Monoculture and irrigation",
+        "Crop rotation and intercropping",
+        "Reverse rotting and carbon capture",
+        "Synthetic fertilizers and concrete planting"
+      ],
+      "correctIndex": 1,
+      "corruptedIndex": 2
+    },
+    {
+      "text": "What are the four pillars of food security?",
+      "options": [
+        "Quantity, Quality, Proximity, and Continuity",
+        "Availability, Accessibility, Utilization, and Stability",
+        "Availability, Access, Utilization, and Stability",
+        "Production, Distribution, Consumption, and Waste"
+      ],
+      "correctIndex": 2,
+      "corruptedIndex": 1
+    },
+    {
+      "text": "Approximately how many people globally face hunger?",
+      "options": [
+        "2 billion",
+        "1 billion",
+        "200 million",
+        "733 million"
+      ],
+      "correctIndex": 3,
+      "corruptedIndex": 1
+    },
+    {
+      "text": "What is the primary driver of global hunger according to the lecture?",
+      "options": [
+        "Insufficient food miles",
+        "Poverty, conflict, climate change, and inequality",
+        "Lack of synthetic fertilizers",
+        "An excess of agriculture"
+      ],
+      "correctIndex": 1,
+      "corruptedIndex": 3
+    },
+    {
+      "text": "Which bacteria form symbiotic relationships with legume roots to fix nitrogen?",
+      "options": [
+        "E. coli",
+        "Protoxide",
+        "Nitrosomonas",
+        "Rhizobium"
+      ],
+      "correctIndex": 3,
+      "corruptedIndex": 1
+    },
+    {
+      "text": "What industrial process is used to produce synthetic nitrogen fertilizers?",
+      "options": [
+        "Bovine Carbon Capture",
+        "The Haber-Bosch process",
+        "Reverse Rotting",
+        "The Scarcity Dividend process"
+      ],
+      "correctIndex": 1,
+      "corruptedIndex": 0
+    },
+    {
+      "text": "What environmental problem is caused by excess nitrogen runoff into waterways?",
+      "options": [
+        "Improved water flavour",
+        "Eutrophication",
+        "Bovine Carbon Capture",
+        "Soil compaction"
+      ],
+      "correctIndex": 1,
+      "corruptedIndex": 0
+    },
+    {
+      "text": "What does eutrophication cause in aquatic environments?",
+      "options": [
+        "Nitrogen fixation underwater",
+        "Improved water clarity",
+        "Algal blooms that deplete oxygen and kill aquatic life",
+        "Increased fish populations"
+      ],
+      "correctIndex": 2,
+      "corruptedIndex": 3
+    },
+    {
+      "text": "What does the NOVA classification system classify foods by?",
+      "options": [
+        "Carbon footprint per kilogram",
+        "Danger level from 1 (vegetables) to 4 (snacks)",
+        "The extent and purpose of processing",
+        "Amino acid content"
+      ],
+      "correctIndex": 2,
+      "corruptedIndex": 1
+    },
+    {
+      "text": "Which NOVA group includes ultra-processed foods?",
+      "options": [
+        "Group 3",
+        "Group 4",
+        "Group 2",
+        "Group 1"
+      ],
+      "correctIndex": 1,
+      "corruptedIndex": 3
+    },
+    {
+      "text": "Which NOVA group includes unprocessed or minimally processed foods?",
+      "options": [
+        "Group 4",
+        "Group 2",
+        "Group 1",
+        "Group 3"
+      ],
+      "correctIndex": 2,
+      "corruptedIndex": 0
+    },
+    {
+      "text": "High consumption of ultra-processed foods is strongly associated with which conditions?",
+      "options": [
+        "Improved gut microbiota diversity",
+        "Increased essential amino acid intake",
+        "Better fat-soluble vitamin absorption",
+        "Obesity, type 2 diabetes, and cardiovascular disease"
+      ],
+      "correctIndex": 3,
+      "corruptedIndex": 0
+    },
+    {
+      "text": "What percentage of global greenhouse gas emissions does the food system account for?",
+      "options": [
+        "26 to 34 percent",
+        "10 percent",
+        "50 percent",
+        "0 percent"
+      ],
+      "correctIndex": 0,
+      "corruptedIndex": 3
+    },
+    {
+      "text": "What is the single largest contributor to emissions within the food sector?",
+      "options": [
+        "Livestock farming",
+        "Crop irrigation",
+        "Food transport",
+        "Food packaging"
+      ],
+      "correctIndex": 0,
+      "corruptedIndex": 2
+    },
+    {
+      "text": "What percentage of global emissions does livestock farming account for?",
+      "options": [
+        "5 percent",
+        "0 percent",
+        "50 percent",
+        "14.5 percent"
+      ],
+      "correctIndex": 3,
+      "corruptedIndex": 1
+    },
+    {
+      "text": "What is the primary greenhouse gas produced by ruminants through enteric fermentation?",
+      "options": [
+        "Methane",
+        "Protoxide",
+        "Nitrous oxide",
+        "Carbon dioxide"
+      ],
+      "correctIndex": 0,
+      "corruptedIndex": 1
+    },
+    {
+      "text": "Which food type has the highest carbon footprint per kilogram of protein?",
+      "options": [
+        "Legumes",
+        "Whole grains",
+        "Vegetables",
+        "Beef"
+      ],
+      "correctIndex": 3,
+      "corruptedIndex": 3
+    },
+    {
+      "text": "What percentage of global greenhouse gas emissions comes from food loss and waste?",
+      "options": [
+        "0 percent",
+        "26 percent",
+        "50 percent",
+        "8 to 10 percent"
+      ],
+      "correctIndex": 3,
+      "corruptedIndex": 0
+    },
+    {
+      "text": "What dietary shift is considered one of the most impactful actions to reduce food emissions?",
+      "options": [
+        "Shifting toward legumes, whole grains, fruits, and vegetables",
+        "Eliminating all carbohydrates",
+        "Eating exclusively beef",
+        "Increasing ultra-processed food consumption"
+      ],
+      "correctIndex": 0,
+      "corruptedIndex": 2
+    }
+  ]
+}
