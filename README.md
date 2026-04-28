@@ -11,7 +11,7 @@
 
 
 
-2. Launch the agents by running launch_agents.bat. this will automatically activate the virtual environment and install all required packages. (First launch will take a while)
+2. Launch the agents by running launch_agents.bat (Inside PythonAgents Folder). this will automatically activate the virtual environment and install all required packages. (First launch will take a while)
 
 3. Run the project in Unity. (First launch will take a while)
 
