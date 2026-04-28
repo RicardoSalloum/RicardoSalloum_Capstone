@@ -18,6 +18,9 @@
 
 // Controls (Mouse & Keyboard)
 
-Right-click + move mouse = Rotate camera
-Left Shift + move mouse = Rotate left hand in-game
-Left Shift + Left-click = Click a button in-game
+Right-click + move mouse = Rotate camera.
+
+Left Shift + move mouse = Rotate left hand in-game.
+
+Left Shift + Left-click = Click a button in-game.
+
