@@ -34,3 +34,6 @@ kokoro
 
 # --- Audio processing (Whisper / TTS internals) ---
 soundfile
+
+# --- pdf to png converter ---
+PyMuPDF
