@@ -2,9 +2,13 @@
 1. Install dependencies in a new seperate environment by running the below lines 1-by-1.(to avoid conflicts with pre-downloaded packages):
 
    python -m venv venv
+
    .\venv\Scripts\activate
+
    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
    pip install -r requirements.txt
+
 
 
 2. Launch the agents by running launch_agents.bat. this will automatically activate the virtual environment and install all required packages. (First launch will take a while)
