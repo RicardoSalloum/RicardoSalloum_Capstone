@@ -1,3 +1,7 @@
+Requirements:
+Unity: 6+.
+Python: 3.11+.
+Hardware: A valid microphone is required for the lecture simulation.
 
 1. Install dependencies in a new seperate environment by running the below lines 1-by-1.(to avoid conflicts with pre-downloaded packages):
 
